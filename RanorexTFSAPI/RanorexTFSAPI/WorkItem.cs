@@ -2,7 +2,7 @@
 
 namespace RanorexTFSAPI
 {
-    class WorkItem
+    public class WorkItem
     {
         public int id;
 

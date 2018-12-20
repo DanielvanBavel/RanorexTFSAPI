@@ -1,6 +1,6 @@
 ﻿namespace RanorexTFSAPI
 {
-    class TestCase
+    public class TestCase
     {
         public object[] value;
     }

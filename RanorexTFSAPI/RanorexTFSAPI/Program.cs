@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace RanorexTFSAPI
 {
-    class Program
+    public class Program
     {
         private static string ResponseBody { get; set; }
 
