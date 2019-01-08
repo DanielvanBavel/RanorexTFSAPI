@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace RanorexTFSAPI
+namespace RanorexTFSAPI.API
 {
     public class WorkItem
     {

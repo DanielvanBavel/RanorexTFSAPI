@@ -1,4 +1,4 @@
-﻿namespace RanorexTFSAPI
+﻿namespace RanorexTFSAPI.API
 {
     public class TestCase
     {
